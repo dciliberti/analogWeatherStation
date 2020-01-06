@@ -8,7 +8,7 @@
  1000 < P < 1020 mbar -> variable weather, simulate soft light with both blue and yellow LEDs
  P > 1020 mbar = high pressure -> simulate sunshine with a fading yellow LED
  
- Simple behaviour for temperature readings:
+ Simple behaviour for temperature readings (dedicated RGB LED):
  T < 12° -> very cold, blue color
  12° < T < 18° -> cold, cyan shades
  18° < T < 24° -> fair, green shades
