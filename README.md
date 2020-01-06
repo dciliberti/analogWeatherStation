@@ -14,3 +14,7 @@ Simple behaviour for temperature readings (dedicated RGB LED):
 - T > 30° -> hot, red shades
 
 Includes serial monitoring to check sensor readings.
+
+Demo videos on Youtube:
+- [Solar shades](https://youtu.be/sfx2iMibm0s)
+- [Thunderstorm](https://youtu.be/v1Q1JJj-sOY)
